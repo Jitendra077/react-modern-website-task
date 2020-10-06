@@ -1,0 +1,66 @@
+ .body{
+margin-left: 8em;    
+padding-bottom: 4em;
+} 
+form{
+    margin-top: 4em;
+    width: 340px;
+    background-color: white;
+    margin-bottom: 4em;
+}
+
+input {
+    width: 90%;
+   
+  padding: 10px 20px 12px;
+  margin: 8px 2px;
+  box-sizing: border-box;
+  
+  
+  }
+
+ .formImg{
+      width: 340px;
+  }
+#btn3{
+    background-color: darkgreen;
+    color: white;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    width: 80%;
+    
+}
+.form-parent{
+    background-color:whitesmoke;
+}
+.formSideInfo{
+    margin-left: 550px;
+    margin-top: -35em;
+}
+.formSideInfo p {
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.formSideInfo span {
+   color: rgb(8, 102, 8);
+    font-weight:200;
+}
+
+#fHeading {
+    font-size: x-large;
+    color: black;
+}
+#form-side-info-list p {
+    color: rgb(39, 102, 39);
+    align-content: flex-start;
+}
+#tech-support{
+    margin-top: -2em;
+    margin-left: 17em;
+}
+
+#integration-ready{
+    margin-top: -2em;
+    margin-left: 17em;
+}

@@ -1,0 +1,23 @@
+.card {
+    margin-left: 8em;
+    margin-top: 8em;
+}
+
+.card h4 {
+    color: red;
+    margin-top: -6em;
+    margin-left: 15em;
+    font-size: xx-large;
+}
+.card p {
+    color: black;
+    margin-left: 28em;
+
+}
+.card img {
+    border-bottom-right-radius: 135px;
+    border: white;
+}
+.avatar{
+    border-image-slice: 20%;
+}

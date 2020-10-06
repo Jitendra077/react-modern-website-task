@@ -1,0 +1,38 @@
+.stay-focussed{
+    margin-left: 8em;
+    margin-top: 8em;
+    
+     
+}
+.stay-focussed h3 {
+    color: black;
+    font-weight: bolder;
+
+}
+.stay-focussed span {
+    color: blue;
+}
+.stay-focussed p{
+    color: gray;
+    margin-top: -8em;
+}
+.yoga{
+    margin-top: -8em;
+    margin-left: 30em;
+}
+.fair-price-for-all {
+    margin: auto;
+    text-align: center;
+    margin-top: 8em;
+}
+.fair-price-for-all h4 {
+    font-size: x-large;
+}
+.fair-price-for-all p {
+    color: black;
+    margin-top: 4em;
+    
+}
+.fair-price-for-all span {
+    color:grey;
+}

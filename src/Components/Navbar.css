@@ -1,0 +1,29 @@
+
+.navbar{
+    margin-left:8em;
+    margin-top: 1em;
+    background-color: white;
+}
+.navbar-logo{
+    color: rgb(23, 77, 177);
+    font-weight: bolder;
+    margin-right: 8em;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar-p{
+    padding: 2em ;
+    color: grey;
+    text-decoration: none;
+}
+.navbar-button{
+    margin-left: 8em;
+}
+button{
+    background-color: rgb(23, 77, 177);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 0.5em;
+    outline: none;
+}

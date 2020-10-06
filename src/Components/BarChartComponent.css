@@ -1,0 +1,44 @@
+.Bar-Chart-Component {
+    margin-left: 8em;
+    margin-top: 20em;
+    position: relative;
+}
+#head1 {
+    color: black;
+    font-weight: bold;
+    
+}
+#head2 {
+    color:black;
+    font-weight: bold;
+}
+.chart-image{
+    margin-top: -18em;
+    width: 450px;
+    margin-left: 38em;
+     transform: rotate(20deg); 
+     box-shadow: gray;
+}
+#head3{
+    color: black;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    margin-top: 4em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+#head3-para {
+    margin: auto;
+    text-align: center;
+    padding-top: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.Bar-Chart-Component h4 {
+    font-weight: bolder;
+    font-size: x-large;
+}
+.Bar-Chart-Component span {
+    color:darkcyan;
+}
